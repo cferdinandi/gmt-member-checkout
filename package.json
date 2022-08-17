@@ -1,7 +1,7 @@
 {
-	"name": "gmt-checkout",
-	"version": "3.3.1",
-	"description": "The WordPress theme for GoMakeThings.com/checkout",
+	"name": "gmt-member-checkout",
+	"version": "1.0.0",
+	"description": "The WordPress theme for Lean Web Club",
 	"author": {
 		"name": "Chris Ferdinandi",
 		"url": "http://gomakethings.com"

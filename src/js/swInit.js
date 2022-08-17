@@ -1,1 +1,1 @@
-import '../../../gmt-theme/dist/js/swInit.js';
+import '../../../../../../../../gmt-theme/dist/js/swInit.js';
